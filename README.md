@@ -13,4 +13,4 @@ Im even thinking about a GUI and support for windows... The lack of good (open s
 -> The name asciigen is temporary, i guess i'm a little uncreative today... 
 
 Greetings
-Simulacrum at Surfaces 
+
